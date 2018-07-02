@@ -15,23 +15,20 @@ _The main goal is to prevent flooding the members with messages as it makes rele
 2. Share only technology related content.
 
 3. Keep the messages short and to the point.
+..One or two lines with a link on the topic/event shared will be enough.
 
-	One or two lines with a link on the topic/event shared will be enough.
+4. Keep the messages clean, appropriate and spam-free.
 
-4. Keep your messages clean, appropriate and more importantly spam-free.
+5. Keep the discussions short.
+..* If a discussion is getting long, please continue the discussion elsewhere.
+..* If possible, make use of platforms like StackOverflow and Quora. Share the link to the online discusssion page in the group.
 
-5. Keep all discussions short.
-	* If a discussion is getting long, please continue the discussion elsewhere.
-	* If possible, make use of public forums like StackOverflow and Quora. Ask the questions in a new public forum and share the link to the forum in the group.
-	* If you cannot use public forums, ask the question directly in group but keep the discussions short.
+_Members who consistently violate these rules will be removed from the group._
 
-_People who consistently violate these rules will be removed from the group._
-
-_We are open to change. If you find anything oppressing about the group, share it with one of the admins._
+_We are open to change. If anything oppressing about the group is found, share it with one of the admins._
 
 # Please note
 
-Every person is assigned to a particular admin, there are 10 admins and each admin gets to keep score of max 10 people.
-Every person gets 3 personal warnings before being removed from the group.
-Each person who joins the group, gets assigned to one person from core, this guys introduces himself and the group and takes the newbie into confidence before introducing the newbie to the group.
-Core keeps track of each and every member and maintains balance of the group.
+Every member is assigned to a particular admin. All new members have to introduce themselves (name, current job/school, interested topics). Every member gets 3 personal warnings before being removed from the group.
+
+Each admin will be assigned a maximum of 10 members. Admins have to contact any new members assigned to them.
