@@ -1,19 +1,9 @@
 # Purpose of the group
 1. Share and discuss everything about technology.
--opportunities, culture, processes, news, entrepreneurship, maker culture, hackathons, events, anything that's related to technology.
-
-Though we are excited about technology as a whole;
-Precisely, anything that computes or has the potential to compute/process/microcontrol code, could easily be the kind of technology we would love to know and talk about.
 
 2. Share all the opportunities and events that come across our way. 
-We love to share the treasure links as we move. Just put a one liner description to the links.
 
-
-3. To help and get helped. It's highly encouraged.
--Post a query and/or help fix other’s. Someone else might be interested  in the same problem, earlier or later.
-
-4. To share links but not discuss about certain things.
--Typical examples could be productivity hacks, life goals, self development, psychology, news, inspiration, politics, etc. Since it's not in our primary interests we only encourage links to be posted with a 1-2 sentence context. We don't encourage discussions, debates or long posts in this special case.
+3. To help and get helped.
 
 # Rules:
 1. Do share great content. That we love.
