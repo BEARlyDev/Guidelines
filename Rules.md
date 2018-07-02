@@ -1,4 +1,4 @@
-#Purpose of the group
+# Purpose of the group
 1. Share and discuss everything about technology.
 -opportunities, culture, processes, news, entrepreneurship, maker culture, hackathons, events, anything that's related to technology.
 
@@ -15,7 +15,7 @@ We love to share the treasure links as we move. Just put a one liner description
 4. To share links but not discuss about certain things.
 -Typical examples could be productivity hacks, life goals, self development, psychology, news, inspiration, politics, etc. Since it's not in our primary interests we only encourage links to be posted with a 1-2 sentence context. We don't encourage discussions, debates or long posts in this special case.
 
-#Rules:
+# Rules:
 1. Do share great content. That we love.
 A major reason why some groups lose direction is because they stop sharing great content.
 Please share almost every good content about technology that excited you. 
@@ -43,7 +43,7 @@ While we can’t predict what our favourite timings might be, we encourage you t
 
 10. We are open to change, if you find anything oppressing about the group, share it with your 'BEARlead'- the guy who introduced you here.
 
-#Please note
+# Please note
 Every person is assigned to a particular admin, there are 10 admins and each admin gets to keep score of max 10 people.
 Every person gets 3 personal warnings before being removed from the group.
 Each person who joins the group, gets assigned to one person from core, this guys introduces himself and the group and takes the newbie into confidence before introducing the newbie to the group.
