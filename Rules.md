@@ -1,9 +1,10 @@
 # Purpose of the group
-1. Share and discuss everything about technology.
 
-2. Share all the opportunities and events that come across our way. 
+1. Share and discuss any topics related to technology.
 
-3. To help and get helped.
+2. Share all the opportunities and events related to technology. 
+
+3. Help each other with problems related to technology.
 
 # Rules
 1. Don’t Bring Up Irrelevant Topics
