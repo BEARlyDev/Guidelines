@@ -15,14 +15,14 @@ _The main goal is to prevent flooding the members with messages as it makes rele
 2. Share only technology related content.
 
 3. Keep the messages short and to the point.
-..One or two lines with a link on the topic/event shared will be enough.
+One or two lines with a link on the topic/event shared will be enough.
 
 4. Keep your messages clean, appropriate and more importantly spam-free.
 
 5. Keep all discussions short.
-..* If a discussion is getting long, please continue the discussion elsewhere.
-..* If possible, make use of public forums like StackOverflow and Quora. Ask the questions in a new public forum and share the link to the forum in the group.
-..* If you cannot use public forums, ask the question directly in group but keep the discussions short.
+* If a discussion is getting long, please continue the discussion elsewhere.
+* If possible, make use of public forums like StackOverflow and Quora. Ask the questions in a new public forum and share the link to the forum in the group.
+* If you cannot use public forums, ask the question directly in group but keep the discussions short.
 
 _People who consistently violate these rules will be removed from the group._
 
