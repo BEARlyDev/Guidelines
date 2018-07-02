@@ -7,6 +7,9 @@
 3. Help each other with problems related to technology.
 
 # Rules
+
+_The main goal is to prevent flooding the members with messages as it makes relevant content hard to find and is irritating._
+
 1. Don’t Bring Up Irrelevant Topics
 
 2. Don’t Send Dubious And Unnecessary Content
