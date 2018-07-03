@@ -4,7 +4,7 @@ This repository contains the rules that are followed in the groups formed by BEA
 
 
 ### *Purpose of the group*
-1.Share and discuss any topics related to technology.
+1. Share and discuss any topics related to technology.
 
 2. Share opportunities and events related to technology.
 
