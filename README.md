@@ -12,22 +12,24 @@ This repository contains the rules that are followed in the groups formed by BEA
 
 ### Rules
 
-_The main goal is to prevent flooding the members with messages as it makes relevant content hard to find and is irritating._
+_The main goal is to prevent flooding the members with messages as it makes relevant content hard to find._
 
-English should be the mode of communication.
+1. English should be the mode of communication.
 
-Share only technology related content.
+2. Share only technology related content.
 
-Keep the messages clean, appropriate and spam-free.
+3. Keep the messages clean, appropriate and spam-free.
 
-Keep the messages short and to the point. 
+4. Keep the messages short and to the point. 
+
 --One or two lines with a link on the topic/event shared will be enough.
+
 --If a discussion is getting long, please continue the discussion elsewhere (platforms like StackOverflow and Quora) and share the link to in the group.
 
-*Please note*
-Every member is assigned to a particular admin. All new members have to introduce themselves (name, current job/school, interested topics). 
+5. Each admin will be assigned a maximum of 10 members. Admins have to contact any new members assigned to them.
 
-Each admin will be assigned a maximum of 10 members. Admins have to contact any new members assigned to them.
+*Please note*
+Every member is assigned to a particular admin. #All new members# have to introduce themselves (name, current job/school, interested topics). 
 
 _Members who consistently violate these rules will be removed from the group._Every member gets 3 personal warnings before being removed from the group.
 
