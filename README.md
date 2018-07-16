@@ -22,9 +22,9 @@ __The main goal is to prevent flooding the members with messages as it makes rel
 
 4. Keep the messages short and to the point. 
 
--->One or two lines with a link on the topic/event shared will be enough.
-
--->If a discussion is getting long, please continue the discussion elsewhere (platforms like StackOverflow and Quora) and share the link to in the group.
+    -->One or two lines with a link on the topic/event shared will be enough.
+  
+    -->If a discussion is getting long, please continue the discussion elsewhere (platforms like StackOverflow and Quora) and share the link to in the group.
 
 5. Each admin will be assigned a maximum of 10 members. Admins have to contact any new members assigned to them.
 
