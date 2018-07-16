@@ -24,12 +24,11 @@ __The main goal is to prevent flooding the members with messages as it makes rel
 
     -->One or two lines with a link on the topic/event shared will be enough.
   
-    -->If a discussion is getting long, please continue the discussion elsewhere (platforms like StackOverflow and Quora) and share the link to in the group.
+    -->If a discussion is getting long, please continue the discussion elsewhere (platforms like StackOverflow, Quora etc.) and share the link to in the group.
 
 5. Each admin will be assigned a maximum of 10 members. Admins have to contact any new members assigned to them.
 
-**Please note**
-6. Every member is assigned to a particular admin. *All new members*  have to introduce themselves (name, current job/college/school, interested topics). 
+6. **Please note** Every member is assigned to a particular admin. *All new members*  have to introduce themselves (name, current job/college/school, interested topics). 
 
 _Members who consistently violate these rules **inspte of receiving 3 personal warnings**, will be removed from the group._
 
