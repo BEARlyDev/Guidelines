@@ -11,25 +11,27 @@ This repository contains the rules that are followed in the groups formed by BEA
 3. Help each other with problems related to technology.
 
 ### Rules
-_The main goal is to prevent flooding the members with messages as it makes relevant content hard to find and is irritating._
 
-English should be the mode of communication.
+__The main goal is to prevent flooding the members with messages as it makes relevant content hard to find.__
 
-Share only technology related content.
+1. English should be the mode of communication.
 
-Keep the messages short and to the point. ..One or two lines with a link on the topic/event shared will be enough.
+2. Share only technology related content.
 
-Keep the messages clean, appropriate and spam-free.
+3. Keep the messages clean, appropriate and spam-free.
 
-Keep the discussions short.
-If a discussion is getting long, please continue the discussion elsewhere.
-If possible, make use of platforms like StackOverflow and Quora. Share the link to the online discusssion page in the group.
+4. Keep the messages short and to the point. 
 
-_Members who consistently violate these rules will be removed from the group._
+    -->One or two lines with a link on the topic/event shared will be enough.
+  
+    -->If a discussion is getting long, please continue the discussion elsewhere (platforms like StackOverflow, Quora etc.) and share the link to in the group.
+
+5. Each admin will be assigned a maximum of 10 members. Admins have to contact any new members assigned to them.
+
+6. Every member is assigned to a particular admin. *All new members*  have to introduce themselves (name, current job/college/school, interested topics). 
+
+**Please note**
+
+_Members who consistently violate these rules **inspte of receiving 3 personal warnings**, will be removed from the group._
 
 _We are open to change. If anything oppressing about the group is found, share it with one of the admins._
-
-*Please note*
-Every member is assigned to a particular admin. All new members have to introduce themselves (name, current job/school, interested topics). Every member gets 3 personal warnings before being removed from the group.
-
-Each admin will be assigned a maximum of 10 members. Admins have to contact any new members assigned to them.
