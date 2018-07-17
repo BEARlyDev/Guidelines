@@ -28,7 +28,9 @@ __The main goal is to prevent flooding the members with messages as it makes rel
 
 5. Each admin will be assigned a maximum of 10 members. Admins have to contact any new members assigned to them.
 
-6. **Please note** Every member is assigned to a particular admin. *All new members*  have to introduce themselves (name, current job/college/school, interested topics). 
+6. Every member is assigned to a particular admin. *All new members*  have to introduce themselves (name, current job/college/school, interested topics). 
+
+**Please note**
 
 _Members who consistently violate these rules **inspte of receiving 3 personal warnings**, will be removed from the group._
 
