@@ -14,7 +14,7 @@ _The main goal is to prevent flooding the members with messages as it makes rele
 
 2. Share only technology related content.
 
-3. Do not share memes, jokes or any other in appropriate content.
+3. Do not share memes, jokes or any other inappropriate content.
 
 _Members who consistently violate these rules will be removed from the group._
 
