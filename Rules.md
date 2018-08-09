@@ -14,21 +14,8 @@ _The main goal is to prevent flooding the members with messages as it makes rele
 
 2. Share only technology related content.
 
-3. Keep the messages short and to the point.
-..One or two lines with a link on the topic/event shared will be enough.
-
-4. Keep the messages clean, appropriate and spam-free.
-
-5. Keep the discussions short.
-..* If a discussion is getting long, please continue the discussion elsewhere.
-..* If possible, make use of platforms like StackOverflow and Quora. Share the link to the online discusssion page in the group.
+3. Do not share memes, jokes or any other inappropriate content.
 
 _Members who consistently violate these rules will be removed from the group._
 
 _We are open to change. If anything oppressing about the group is found, share it with one of the admins._
-
-# Please note
-
-Every member is assigned to a particular admin. All new members have to introduce themselves (name, current job/school, interested topics). Every member gets 3 personal warnings before being removed from the group.
-
-Each admin will be assigned a maximum of 10 members. Admins have to contact any new members assigned to them.
