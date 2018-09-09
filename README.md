@@ -21,7 +21,8 @@ _The main goal is to prevent flooding the members with messages as it makes rele
 
 3. All open ended questions can be posted only after the member finds no answers on searching/reading stackoverflow/docs.
 
-4. Answers to questions are best conveyed in DM, answers in the group are allowed, but not in overflow.
+4. Answers to questions are best conveyed in DM, answers in the group are allowed as a link to thread online. regular
+answers are also allowed, but not in overflow.
 
 4. Do not share memes, jokes or any other inappropriate content(other than to convey a point).
 
