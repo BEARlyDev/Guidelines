@@ -19,7 +19,11 @@ _The main goal is to prevent flooding the members with messages as it makes rele
 
 2. Share only technology related content.
 
-3. Do not share memes, jokes or any other inappropriate content.
+3. All open ended questions can be posted only after the member finds no answers on searching/reading stackoverflow/docs.
+
+4. Answers to questions are best conveyed in DM, answers in the group are allowed, but not in overflow.
+
+4. Do not share memes, jokes or any other inappropriate content(other than to convey a point).
 
 _Members who consistently violate these rules will be removed from the group._
 
